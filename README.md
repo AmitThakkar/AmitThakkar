@@ -32,7 +32,7 @@ GulpJS
 Linux
 ---
 
-* [Static content build script](http://amitthakkar.github.io/static-content-build-script)
+* [Static Content Build Script](http://amitthakkar.github.io/static-content-build-script)
 
 AngularJS
 ---
