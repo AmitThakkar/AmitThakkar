@@ -24,7 +24,7 @@ GulpJS
 
 * [Getting Started With Gulp](http://amitthakkar.github.io/Getting-Started-With-Gulp)
 
-* [Getting Started With Gulp Part - 2](http://amitthakkar.github.io/Getting-Started-With-Gulp-Part-2.)
+* [Getting Started With Gulp Part - 2](http://amitthakkar.github.io/Getting-Started-With-Gulp-Part-2)
 
 * [Getting Started With Gulp Part - 3](http://amitthakkar.github.io/Getting-Started-With-Gulp-Part-3)
 
