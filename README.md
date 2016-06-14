@@ -3,6 +3,8 @@
 Angular2
 ---
 
+* [Safe Navigation Operator](http://amitthakkar.github.io/Safe-Navigation-Operator)
+
 * [Angular2 Components](http://amitthakkar.github.io/Angular2-Components)
 
 Object Oritented JavaScript
