@@ -8,6 +8,8 @@ Open Source Contribution:
 Angular2
 ---
 
+* [Pipes in Angular2](http://amitthakkar.github.io/Pipes-In-Angular2)
+
 * [Safe Navigation Operator](http://amitthakkar.github.io/Safe-Navigation-Operator)
 
 * [Angular2 Components](http://amitthakkar.github.io/Angular2-Components)
