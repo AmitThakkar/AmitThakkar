@@ -1,8 +1,11 @@
 #Blogs :
 
 Open Source Contribution:
----
-* [Tracer](https://github.com/AmitThakkar/tracer)
+-------------------------
+
+* [Node Github OAuth2](https://www.npmjs.com/package/node-github-oauth2)
+
+* [Tracer](https://github.com/baryon/tracer/graphs/contributors)
 
 
 Angular2
