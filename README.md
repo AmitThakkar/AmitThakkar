@@ -5,6 +5,8 @@ Open Source Contribution:
 
 * [Node Github OAuth2](https://www.npmjs.com/package/node-github-oauth2)
 
+* [Nested Loop](https://www.npmjs.com/package/nested-loop)
+
 * [Tracer](https://github.com/baryon/tracer/graphs/contributors)
 
 
