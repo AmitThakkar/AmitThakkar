@@ -24,7 +24,7 @@ Angular2
 Object Oritented JavaScript
 ---
 
-* [Constructor Pattern Tree](https://amitthakkar.github.io/Constructor-Pattern)
+* [Constructor Pattern](https://amitthakkar.github.io/Constructor-Pattern)
 
 NodeJS
 ---
