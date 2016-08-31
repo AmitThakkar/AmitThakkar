@@ -26,6 +26,8 @@ Object Oritented JavaScript
 
 * [Constructor Pattern](https://amitthakkar.github.io/Constructor-Pattern)
 
+* [JavaScript Singleton Pattern](https://amitthakkar.github.io/JavaScript-Singleton-Pattern/)
+
 NodeJS
 ---
 
