@@ -28,6 +28,8 @@ Object Oritented JavaScript
 
 * [JavaScript Singleton Pattern](https://amitthakkar.github.io/JavaScript-Singleton-Pattern/)
 
+* [Equality(==) vs Identity(===)](https://amitthakkar.github.io/Equality-VS-Identity/)
+
 NodeJS
 ---
 
